@@ -1,9 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T02:52:37.354Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="23.0.0" etag="IVxmD7S5RDXTjEOZxgtl" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T03:06:38.038Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="6IDdFnNbRoI1tfp_RMBi" version="23.0.0" type="github">
   <diagram name="第 1 页" id="DIla6i6g3mEQoNzb5QHu">
-    <mxGraphModel>
+    <mxGraphModel dx="1038" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bdXt38pyQyoy7RbvNl2O-10" value="开发页面-a" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="30" y="140" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bdXt38pyQyoy7RbvNl2O-6" value="跳转共享链接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="170" width="45" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bdXt38pyQyoy7RbvNl2O-8" value="打开表单弹窗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="230" width="45" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bdXt38pyQyoy7RbvNl2O-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bdXt38pyQyoy7RbvNl2O-13" target="bdXt38pyQyoy7RbvNl2O-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdXt38pyQyoy7RbvNl2O-13" value="页面加载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="140" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bdXt38pyQyoy7RbvNl2O-14" value="请求页面数据，表单赋值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bdXt38pyQyoy7RbvNl2O-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bdXt38pyQyoy7RbvNl2O-15" target="bdXt38pyQyoy7RbvNl2O-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdXt38pyQyoy7RbvNl2O-15" value="跳转共享链接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="140" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bdXt38pyQyoy7RbvNl2O-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bdXt38pyQyoy7RbvNl2O-19" target="bdXt38pyQyoy7RbvNl2O-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdXt38pyQyoy7RbvNl2O-19" value="浏览共享链接的页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="140" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bdXt38pyQyoy7RbvNl2O-20" value="缓存表单数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bdXt38pyQyoy7RbvNl2O-25" value="开发页面-b" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="30" y="340" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bdXt38pyQyoy7RbvNl2O-26" value="跳转共享链接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="370" width="45" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bdXt38pyQyoy7RbvNl2O-27" value="隐藏表单弹窗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="430" width="45" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bdXt38pyQyoy7RbvNl2O-28" value="表单填写" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="370" width="45" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bdXt38pyQyoy7RbvNl2O-31" value="返回页面a" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="205" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
