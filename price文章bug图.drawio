@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T03:09:32.631Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="jECjFPFI3QmXL_ocIV0X" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T05:31:23.774Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="FrNBct1ppYfbpmnnI3Wt" version="23.0.0" type="github">
   <diagram name="第 1 页" id="DIla6i6g3mEQoNzb5QHu">
     <mxGraphModel dx="1038" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
         <mxCell id="bdXt38pyQyoy7RbvNl2O-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bdXt38pyQyoy7RbvNl2O-19" target="bdXt38pyQyoy7RbvNl2O-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bdXt38pyQyoy7RbvNl2O-38" value="读取缓存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bdXt38pyQyoy7RbvNl2O-37">
+        <mxCell id="bdXt38pyQyoy7RbvNl2O-38" value="整合缓存和接口数据赋值给页面" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bdXt38pyQyoy7RbvNl2O-37">
           <mxGeometry x="-0.4696" y="-3" relative="1" as="geometry">
             <mxPoint x="3" y="8" as="offset" />
           </mxGeometry>
